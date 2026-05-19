@@ -3,7 +3,7 @@
 > Build and grow a structured library of proven content hooks. Generate new hooks for any topic, calibrated to your brand voice.
 
 
-> **Part of [ccai-skills-pack](https://github.com/cory-dot/ccai-skills-pack)**, Creative Core AI's 26-skill library. Install this skill standalone (see below), or grab the full pack in one go.
+> **Part of [ccai-skills-pack](https://github.com/creativecore-ai/ccai-skills-pack)**, Creative Core AI's 26-skill library. Install this skill standalone (see below), or grab the full pack in one go.
 
 **Slash command:** `/ccai-hook-research`
 **Status:** v0.1 · works with Claude Code
@@ -51,7 +51,7 @@ No API keys, no scraping, no external services. You provide the hooks, the skill
 ## Install
 
 ```bash
-git clone https://github.com/cory-dot/ccai-hook-research ~/.claude/skills/ccai-hook-research
+git clone https://github.com/creativecore-ai/ccai-hook-research ~/.claude/skills/ccai-hook-research
 ```
 
 Restart Claude Code or run `/doctor` to confirm.
@@ -129,14 +129,14 @@ Run **research mode every 1–2 weeks** as you collect new hooks. Run **generate
 
 ## Part of the Creative Core AI skills pack
 
-This skill is part of [`ccai-skills-pack`](https://github.com/cory-dot/ccai-skills-pack), the full Creative Core AI skill library (26 skills total). Two ways to install:
+This skill is part of [`ccai-skills-pack`](https://github.com/creativecore-ai/ccai-skills-pack), the full Creative Core AI skill library (26 skills total). Two ways to install:
 
 ```bash
 # Just this skill (ad-hoc)
-git clone https://github.com/cory-dot/ccai-hook-research ~/.claude/skills/ccai-hook-research
+git clone https://github.com/creativecore-ai/ccai-hook-research ~/.claude/skills/ccai-hook-research
 
 # Or the entire pack
-git clone https://github.com/cory-dot/ccai-skills-pack ~/ccai-skills-pack && cd ~/ccai-skills-pack && ./install.sh
+git clone https://github.com/creativecore-ai/ccai-skills-pack ~/ccai-skills-pack && cd ~/ccai-skills-pack && ./install.sh
 ```
 
 The full pack is taught in [The AI Operator's Playbook](https://skool.com/creative-core-ai), our free Skool course for non-technical business owners.
